@@ -1,0 +1,56 @@
+html {
+  background-color: whitesmoke;
+}
+
+h1 {
+  text-align:center;
+  color:#501e49;
+  font-size:50px;
+  margin-top:40px;
+  font-style:oblique;
+}
+
+h2, p, ul {
+  margin: 0 auto;
+  width:50%;
+  
+}
+
+img {
+  display: block;
+  margin: 0 auto; 
+  width: 40%;
+  height: 50%;
+  margin-top:40px;
+}
+
+a {
+  text-decoration:none;
+  color:black;
+}
+a:hover {
+  color:black;
+}
+
+ul {
+  text-align: right;
+  list-style: none;
+
+}
+
+ul li {
+  display: inline-block;
+  margin:15px;
+}
+
+input, textarea, button {
+  display: block;
+  margin: 20px auto;
+  width: 50%;
+  height: 30px;
+}
+
+textarea {
+  height: 70px;
+  resize: vertical;
+}
